@@ -19,13 +19,13 @@ second commit.
   - Sub item1
   - Sub item2
 
-  **Images**
-  **Remote images**
+  ***Images***
+  ***Remote images***
   ![An image of a cat](http://placekitten.com/200/300) //待解决
 
-  **Local images**
+  ***Local images***
   ![The Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-  
+
 ```
   This is a code block!
 ```
