@@ -11,3 +11,10 @@ second commit.
 **bold text**
 
 *italic text*
+
+**List**
+
+- Item 1
+- Item 2
+ - Sub item1
+ - Sub item2
