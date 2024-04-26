@@ -18,3 +18,7 @@ second commit.
 - Item 2
   - Sub item1
   - Sub item2
+
+  **Images**
+  **Remote images**
+  ![An image of a cat](http://placekitten.com/200/300)
